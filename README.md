@@ -3,8 +3,8 @@
 # Adaption to the original Repository
 - Change mongoDB version to 4 because of missing AVX support in our environment
 - Update prometeus config with a new cadvisor job
-- Add additional services from ( https://anonymous.4open.science/r/sock-shop_iot_services-1C54) to include some iot_activity
-- Updating the catalog service (https://anonymous.4open.science/r/catalogue-F2F8/) to use the additional IoT-services
+- Add additional services from ( https://anonymous.4open.science/r/sock-shop_iot_services-5A36) to include some iot_activity
+- Updating the catalog service (https://anonymous.4open.science/r/catalogue-3C6D/) to use the additional IoT-services
 - Add a setup file file for setting up the sock-shop and do all the work that is needed for it
 
 Setup commands
